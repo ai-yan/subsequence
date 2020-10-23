@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "bM1TS+GIV+CYCGXvsU5/3Ez13Qu0hUIw7NfXm801AqWL1TbpinZYItBsMK3SY7yosNuS6DgoRBFmXef2BY8veQ==",
+  "success": true,
+  "projectFilePath": "D:\\Work\\Open it use Visual Studio_Sam.Coach.Test\\Open it use Visual Studio_Sam.Coach.Test\\Sam.Coach\\Sam.Coach.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\world\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.5\\microsoft.extensions.dependencyinjection.3.1.5.nupkg.sha512",
+    "C:\\Users\\world\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.5\\microsoft.extensions.dependencyinjection.abstractions.3.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
